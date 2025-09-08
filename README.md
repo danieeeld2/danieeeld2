@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=danieeeld2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danieeeld2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&hide_rank=false" height="170" alt="stats graph" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=danieeeld2&layout=compact&theme=dracula&card_width=320&langs_count=5" height="170" alt="languages graph" />
 </div>
 
